@@ -1,3 +1,15 @@
+<!-- Meta tags for SEO -->
+<head>
+  <meta name="description" content="TeraBox Downloader Bot - Download TeraBox files instantly via Telegram. High-speed, secure, and reliable file downloads with 24/7 support.">
+  <meta name="keywords" content="TeraBox, Downloader, Telegram Bot, File Download, High Speed, Secure Downloads, Premium Download">
+  <meta name="author" content="TeraBox Downloader Bot">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="TeraBox Downloader Bot - Fast & Secure Downloads">
+  <meta property="og:description" content="Download TeraBox files instantly via Telegram. High-speed, secure, and reliable file downloads with 24/7 support.">
+  <meta property="og:image" content="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+  <meta property="og:url" content="https://www.yourdomain.com">
+</head>
+
 # 🚀 TeraBox Downloader Bot
 
 <div align="center">
